@@ -309,3 +309,10 @@ display-physical-size = Rozmiar fizyczny
 display-connection = Połączenie
 display-manufacture-date = Data produkcji
 displays-missing = Nie wykryto żadnych monitorów
+vf-curve-shortcuts = Kliknij punkt albo przeciągnij po wykresie, aby zaznaczyć punkty. Ctrl+klik dodaje lub usuwa punkt, Shift+przeciąganie przesuwa całą krzywą.
+    Góra/Dół: przesuń zaznaczenie o jeden krok zegara karty, zwykle 15 MHz (Ctrl: pięć kroków). Lewo/Prawo: następny punkt (Shift: rozszerz zaznaczenie). Ctrl+A: zaznacz wszystko, Esc: usuń zaznaczenie.
+    Kółko myszy lub +/-: zbliżanie i oddalanie, Shift+kółko: przesuwanie widoku, 0: cała krzywa.
+    L: prosta linia między skrajnymi zaznaczonymi punktami.
+vf-curve-line-between = Linia między zaznaczonymi punktami
+vf-curve-base-offset = Przesunięcie całej krzywej bazowej (MHz):
+vf-curve-apply-offset = Ustaw przesunięcie

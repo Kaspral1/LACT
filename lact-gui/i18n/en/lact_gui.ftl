@@ -200,6 +200,13 @@ vf-curve-visible-range-to = to
 vf-curve-flatten-right = Flatten curve to the right
 vf-curve-flatten-selection = Flatten selection
 vf-curve-editing-disabled = VF curve editing is disabled on the OC page
+vf-curve-shortcuts = Click a point or drag across the chart to select points, Ctrl+click adds or removes a point, Shift+drag moves the whole curve.
+    Up/Down: move the selection by one clock step of the card, usually 15 MHz (Ctrl: five steps). Left/Right: next point (Shift: extend the selection). Ctrl+A: select all, Esc: clear the selection.
+    Mouse wheel or +/-: zoom in and out, Shift+wheel: scroll the view, 0: show the whole curve.
+    L: straight line between the outermost selected points.
+vf-curve-line-between = Line between selected points
+vf-curve-base-offset = Offset of the whole base curve (MHz):
+vf-curve-apply-offset = Set offset
 
 gpu-clock-offset = GPU Clock Offset (MHz)
 max-gpu-clock = Maximum GPU Clock (MHz)
