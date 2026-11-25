@@ -8,6 +8,12 @@
 This application allows you to control your AMD, Nvidia or Intel GPU on a Linux
 system.
 
+> This is a fork of [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT)
+> based on version 0.10.1. It changes the Nvidia VF curve editor: several points
+> can be selected and moved at once, the curve can be edited with the keyboard,
+> the chart can be zoomed with the mouse wheel, and edits are snapped to the
+> frequency grid of the driver. See [the editor documentation](./docs/VF_CURVE_EDITOR.md).
+
 | GPU info                          | Overclocking                      | Fan control                       |
 | ----------------------------------| ----------------------------------| ----------------------------------|
 | ![image](./res/screenshots/1.png) | ![image](./res/screenshots/2.png) | ![image](./res/screenshots/3.png) |
@@ -36,6 +42,7 @@ system.
 - #### Overclocking
   - GPU/VRAM clocks configuration
   - GPU undervolting (via voltage offset on AMD, VF curve on Nvidia)
+  - [VF curve editor](./docs/VF_CURVE_EDITOR.md) with multi-point selection, keyboard control and zoom (Nvidia)
 - #### Settings profiles
   - Automatic profile activation based on running processes or gamemode status
 - #### [OpenTelemetry metrics exporter](./docs/EXPORTER.md)
@@ -51,6 +58,7 @@ The service can also be used standalone with a config file, for example in headl
 - [Frequently asked questions](https://github.com/ilya-zlobintsev/LACT/wiki/Frequently-asked-questions)
 - [Enable overclocking on AMD](https://github.com/ilya-zlobintsev/LACT/wiki/Overclocking-(AMD))
 - [Config file reference](./docs/CONFIG.md)
+- [Nvidia VF curve editor](./docs/VF_CURVE_EDITOR.md)
 - [API](./docs/API.md)
 - [Power profiles daemon note](#power-profiles-daemon-note)
 - [Recovery from a bad overclock](https://github.com/ilya-zlobintsev/LACT/wiki/Recovering-from-a-bad-overclock)
