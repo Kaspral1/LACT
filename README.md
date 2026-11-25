@@ -407,24 +407,3 @@ that might include information about driver and system issues.
 # Localization
 
 You can contribute translations to LACT using [Weblate](https://translate.fedoraproject.org/engage/lact/).
-
-# Support the project
-
-If you wish to support the project, you can do so via Patreon:
-https://www.patreon.com/IlyaZlobintsev
-
-Or using cryptocurrency:
-- BTC: `12FuTXZzd5peGb7QfoRkXaLnbJ1DNVW4pP`
-- ETH: `0x80875173316aa6317641bfbc50644e7ca74d6b6d`
-- XMR: `42E93NZXM7STBUsnMRGNyxKryFVgpHKNP6aza94C5hn17j2W7zUnFHe7ASQzB3KorYYnsaVzWUyHHVYfcTLQRtB63qkv5jE`
-
-# Other tools
-
-Here's a list of other useful tools for AMD GPUs on Linux:
-
-- [CoreCtrl](https://gitlab.com/corectrl/corectrl) - direct alternative to LACT,
-  provides similar functionality in addition to CPU configuration with a Qt UI
-- [amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - tool for detailed
-  real-time statistics on AMD GPUs
-- [Tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool,
-  has support for AMD GPUs
