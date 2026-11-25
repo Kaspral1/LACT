@@ -1,4 +1,6 @@
-# Linux GPU Control Application
+# Linux GPU Control Application.
+The fork introduces changes to the power curve editing process. Additional options speed up the implementation of adjustments -making it easy, fast, and convenient.
+
 <a href="https://translate.fedoraproject.org/engage/lact/">
 <img src="https://translate.fedoraproject.org/widget/lact/svg-badge.svg" alt="Translation status" />
 </a>
