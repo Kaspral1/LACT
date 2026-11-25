@@ -439,7 +439,7 @@ impl relm4::Component for VfCurveEditor {
             allow_editing,
             cursor_position: Rc::new(Cell::new(None)),
             curve_offset: gtk::Adjustment::new(0.0, -1000.0, 1000.0, 5.0, 25.0, 0.0),
-            visible_range_start: gtk::Adjustment::new(30.0, 0.0, 100.0, 1.0, 10.0, 0.0),
+            visible_range_start: gtk::Adjustment::new(0.0, 0.0, 100.0, 1.0, 10.0, 0.0),
             visible_range_end: gtk::Adjustment::new(100.0, 0.0, 100.0, 1.0, 10.0, 0.0),
             hovered_coords: Rc::new(Cell::new(None)),
             hovered_point: Rc::new(Cell::new(None)),
