@@ -410,3 +410,12 @@ that might include information about driver and system issues.
 # Localization
 
 You can contribute translations to LACT using [Weblate](https://translate.fedoraproject.org/engage/lact/).
+
+
+## Support me
+[![Sponsor on Buy Me a Coffee](https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kaspral)
+
+- **Buy Me a Coffee:** [https://buymeacoffee.com/kaspral](https://buymeacoffee.com/kaspral)
+- **BTC:** `bc1pdc8clusv5hpgz7laywwzhjjcklk6x2cgj2xu5uc9xes9fukxaegsn7cs20`
+- **ETH:** `0x006dAcBA1344144AB395D02637045Dd19aB54C2E`
+- **SOL:** `96Lc4X6hieoCkUFHtDW4wvbWXgZvebqTktjRNiCNe1ex`
